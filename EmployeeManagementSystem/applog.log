@@ -1,0 +1,1 @@
+2018-08-23 15:11:31,730 - com.cg.ems.dao.EmpDaoImpl - INFO - All data retrieved:[Employee [empId=1, empName=apurva, empSal=38000.0], Employee [empId=3215, empName=Agarwa, empSal=5632.0]]
